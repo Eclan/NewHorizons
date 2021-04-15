@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Test [code review](https://github.com/Eclan/NewHorizons/main/CodeReview.mp4)
+
 
 You can use the [editor on GitHub](https://github.com/Eclan/NewHorizons/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
