@@ -37,9 +37,12 @@ input('press Enter to exit')
 ```markdown
 `Version 1.1`
 
-import socket # to access ports from remote host that you choose
-import sys # uses the sys.exit for errors when reading ports
-from datetime import datetime # to keep track of time to accomplish port scan
+# to access ports from remote host that you choose
+import socket 
+# uses the sys.exit for errors when reading ports
+import sys 
+# to keep track of time to accomplish port scan
+from datetime import datetime 
 
 # Ask for input of ip you are wanting to scan
 remoteServer = input('Enter a remote host to scan (press Ctrl-C to stop): ')
@@ -53,7 +56,8 @@ print('*' * 60)
 # Check what time the scan started
 t1 = datetime.now()
 
-try: # using the try will run all ports in range first then except applies
+# using the try will run all ports in range first then except applies
+try: 
     for port in range(441,447):
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
         result = sock.connect_ex((remoteServerIP, port))
@@ -61,15 +65,18 @@ try: # using the try will run all ports in range first then except applies
             print('Port {}: 	 Open' .format(port)) 
             sock.close() 
 
-except KeyboardInterrupt: # user function to exit program
+# user function to exit program
+except KeyboardInterrupt: 
     print('You pressed Ctrl+C exiting program')
     sys.exit()
 
-except socket.gaierror: # having errors with ip chosen
+# having errors with ip chosen
+except socket.gaierror: 
     print('Hostname could not be resolved. Exiting')
     sys.exit()
 
-except socket.error: # having errors with sockets
+# having errors with sockets
+except socket.error: 
     print('Couldn''t connect to server')
     sys.exit()
 
@@ -90,13 +97,3 @@ del t2
 ```
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eclan/NewHorizons/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
