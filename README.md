@@ -2,7 +2,7 @@
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="">
-    <source src="https://github.com/Eclan/NewHorizons/Code Review.mp4" type="video/mp4">
+    <source src="https://Eclan.github.io/NewHorizons/Code Review.mp4" type="video/mp4">
   </video>
 </figure>
 
