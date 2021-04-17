@@ -125,14 +125,14 @@ Parlante, N. (n.d.). Retrieved February 22, 2020, from http://cslibrary.stanford
 Databases are very useful tools when someone knows how to use the data in them. The first item a analyst should know is what data to collect. With the proper explanations as to why and how that data will be used in their outcome. This can grant a better perspective for the individual that is participating in the study with the data. The databases that will be used are smaller data sets and can simulate larger data sets. First, I will go through the database named, “roller coaster.xlsx”. I will use the program JMP to execute the visuals in the following figures. I am also familiar with the open source program JASP which has been very resourceful for home projects.
 
 ![image](https://user-images.githubusercontent.com/75941814/115123420-f6367780-9f8a-11eb-8473-52f17f28202a.png)
-
+```markdown
 Bivariate Fit of Duration By Length
  
- 
 Bivariate Normal Ellipse P=0.950
-Variable	Mean	Std Dev	Correlation	Signif. Prob	Number
-Length	3754.571	1589.455	0.800886	<.0001*	78
-Duration	139.5128	42.6985			
+Variable	Mean	Std Dev	 Correlation	Signif. Prob	Number
+Length	      3754.571	1589.455   0.800886	<.0001*	          78
+Duration      139.5128	 42.6985	
+```
 *********Figure 1
 
 
@@ -143,26 +143,32 @@ Duration	139.5128	42.6985
 
 
 
-
+```markdown
 Multivariate 
 Correlations
-	Duration	Speed	Height	Drop	Length	Inversions
+	      Duration	Speed	Height	Drop	Length	Inversions
 Duration	1.0000	0.3918	0.3413	0.4326	0.8009	-0.1006
-Speed	0.3918	1.0000	0.7640	0.9211	0.5025	-0.2269
-Height	0.3413	0.7640	1.0000	0.7492	0.4209	-0.1781
-Drop	0.4326	0.9211	0.7492	1.0000	0.5328	-0.2277
-Length	0.8009	0.5025	0.4209	0.5328	1.0000	-0.3750
-Inversions	-0.1006	-0.2269	-0.1781	-0.2277	-0.3750	1.0000
+Speed	        0.3918	1.0000	0.7640	0.9211	0.5025	-0.2269
+Height	        0.3413	0.7640	1.0000	0.7492	0.4209	-0.1781
+Drop	        0.4326	0.9211	0.7492	1.0000	0.5328	-0.2277
+Length	        0.8009	0.5025	0.4209	0.5328	1.0000	-0.3750
+Inv            -0.1006 -0.2269 -0.1781 -0.2277 -0.3750	 1.0000
+```
 Scatterplot Matrix
- 
+
+ ![image](https://user-images.githubusercontent.com/75941814/115123538-7eb51800-9f8b-11eb-8289-6517413cc457.png)
+
 *********Figure 2
 
 Principal Components: on Correlations
 Summary Plots
  
+![image](https://user-images.githubusercontent.com/75941814/115123627-f2efbb80-9f8b-11eb-9e3a-7facc09bafff.png)
 
- 
- 
+![image](https://user-images.githubusercontent.com/75941814/115123632-f8e59c80-9f8b-11eb-8bc4-4e279f2237db.png)
+
+![image](https://user-images.githubusercontent.com/75941814/115123646-03079b00-9f8c-11eb-9289-b274c1fefffe.png)
+
 *********Figure 3
 
 
@@ -178,27 +184,28 @@ Data warehouse would be collecting all the customer and retailer information. Th
 
 If the data collected within the retailer need more information the retailer would push for external data beyond their internal sources. This can be comparative to gauging the retailer to a larger scale. Perhaps a school is taking a poll to see what type of phone is most widely used at that moment in time. Information such as that will let a retailer know if they need to stock their shelves and focus an investment to a product. That was an example, I am sure there would be multiple schools, reviews, government agencies and social media statistics to justify the purchase and engage the product. With multiple sources to tap into that can prove difficult to generate data for a single organizational answer. Making a large business decision off external sources needs a good amount of proof. So, research on the secondary sources would be extensive compared to the reliable internal sources at hand. The more internal retailer information that can be collected the better for verifying the external data possibly needed for proof on a retailer’s business decision.
 Next, we will interpret the Bubba Gump company that is a restaurant chain.  
+
+![image](https://user-images.githubusercontent.com/75941814/115123670-1a468880-9f8c-11eb-812f-46ccc3bba0dd.png)
+
 Figure 4
-
-
-	 
  
- 
+![image](https://user-images.githubusercontent.com/75941814/115123677-25011d80-9f8c-11eb-891a-fd5e5ea8454f.png)
+![image](https://user-images.githubusercontent.com/75941814/115123680-292d3b00-9f8c-11eb-8fcd-3ee6277de709.png)
+![image](https://user-images.githubusercontent.com/75941814/115123686-2df1ef00-9f8c-11eb-8037-24bf46011562.png)
  
 Figure 5
 
-
- 
+![image](https://user-images.githubusercontent.com/75941814/115123701-3a764780-9f8c-11eb-9fdd-1a5a6e4ba20a.png)
+![image](https://user-images.githubusercontent.com/75941814/115123704-3e09ce80-9f8c-11eb-9b82-f717d1dcf28c.png)
  
 Figure 6
 
-
+![image](https://user-images.githubusercontent.com/75941814/115123714-495cfa00-9f8c-11eb-820c-f03897012b09.png)
  
 Figure 7
 
+![image](https://user-images.githubusercontent.com/75941814/115123724-537ef880-9f8c-11eb-8a99-9e30f22b29f8.png)
 
-
- 
 Figure 8
 
 
@@ -222,8 +229,10 @@ The resource that will come in handy is the data preparation for the next step f
 
 Bubba Gump Company’s stepwise approach is focusing on the value of the webstore. We have broken down some data from the data center to come up with some solid background to the webstore. We also have data that is out of our control with what we have, and we will go over both aspects. The effective material that we have collected reflects on the five hundred customers use of the webstore. This can display how many customers are using the webstore to purchase and shows how many customers use the webstore and do not purchase. This information can generate a new survey to expose the question to why they log onto the webstore but do not purchase. We can identify the population of the five hundred customers per income, age and marital status. The data collected on the population can reflect focusing on a generation that uses Bubba Gump’s products more. One element that we do not have control over is the restaurant visits and how much went to the restaurant versus the webstore. Our data is more focused on the webstore and should have more information pertaining to the webstore and tie the data with the webstore more. The difference of restaurant to webstore is out of our control when it comes to analyzing the data. We cannot tie a webstore visit to a restaurant visit expenditure with the third visit column. As shown above in data visualizations we can use the third spending for the restaurant spending in this case until more information is gathered.
  
- 
- 
+![image](https://user-images.githubusercontent.com/75941814/115123734-62fe4180-9f8c-11eb-9054-cf49cfec7c71.png)
+![image](https://user-images.githubusercontent.com/75941814/115123737-672a5f00-9f8c-11eb-83e4-df1ede106493.png)
+![image](https://user-images.githubusercontent.com/75941814/115123739-6abde600-9f8c-11eb-8aa2-52b8769fbadf.png)
+![image](https://user-images.githubusercontent.com/75941814/115123744-6eea0380-9f8c-11eb-8d7d-0a79239670bb.png)
  
 There is a source of error I had to address when using the data that is present. That was focusing on the webstore and most data pulled reflected a downgrade to the information. The data was showing more customers using the webstore but not purchasing. It also was showing that the older generations were not using the webstore as much. The higher income customers were not using the webstore and was showing a decline in that data. All data sets generated was showing that solid decline in our information. Then with and overview of webstore visits to webstore spending the incline appeared. If the in depth digging of the information did not happen then one might see a failure in the webstore when there is light at the end of that tunnel. It is worth adjusting the budget to amplify on the webstore’s appearance and user-friendly experience.
 
