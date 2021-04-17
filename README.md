@@ -6,13 +6,13 @@
   </video>
 </figure>
 
-A self review of older code is conducted by myself above. The original code submission is found here [Version 1.0](https://github.com/Eclan/NewHorizons/edit/main) along with the updated [Version1.1](https://github.com/Eclan/NewHorizons/edit/main).
+A self review of older code is conducted by myself above. The original code submission is version 1.0 and the submission to the code review is updated version 1.1. When beginning to code with Python I was very unaware of how in-depth code went. Throughout multiple python courses I am noticing that my old code is not up to par and need to update them. Here is one example of self reviewing your own material and creating better more reformed code and exercise good practice.
 
 ```markdown
-Version 1.0
+`Version 1.0`
 
 import socket, sys
-remoteServer    = input('Enter a remote host to scan (press Ctrl-C to stop): ')
+remoteServer    = input('Enter a remote host to scan: ')
 remoteServerIP  = socket.gethostbyname(remoteServer)
 print('*' * 60)
 print('Please wait, scanning remote host', remoteServerIP)
@@ -35,7 +35,7 @@ input('press Enter to exit')
 ```
 
 ```markdown
-Version 1.1
+`Version 1.1`
 
 import socket # to access ports from remote host that you choose
 import sys # uses the sys.exit for errors when reading ports
@@ -89,29 +89,7 @@ del t2
 
 ```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
