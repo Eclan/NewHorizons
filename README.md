@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
-
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="C:\Users\Quiet\Desktop\school\CS499 Capstone\CodeReview.png">
+    <source src="C:\Users\Quiet\Desktop\school\CS499 Capstone\Code Review.mp4" type="video/mp4">
+  </video>
+</figure>
 
 You can use the [editor on GitHub](https://github.com/Eclan/NewHorizons/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
