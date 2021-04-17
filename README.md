@@ -1,14 +1,10 @@
 ### Self review over old code on my PC.
 
-
-
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="">
     <source src="https://github.com/Eclan/NewHorizons/Code Review.mp4" type="video/mp4">
   </video>
 </figure>
-
-
 
 You can use the [editor on GitHub](https://github.com/Eclan/NewHorizons/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
