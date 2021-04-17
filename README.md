@@ -32,12 +32,10 @@ except socket.error:
     sys.exit()
 input('press Enter to exit')
 
-```markdown
+```
 
 ```markdown
 Version 1.1
-
-# **** Clancy's internal use only for port scanning Revised 2/13/2021 ****
 
 import socket # to access ports from remote host that you choose
 import sys # uses the sys.exit for errors when reading ports
@@ -89,7 +87,7 @@ del port
 del t1
 del t2
 
-```markdown
+```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
