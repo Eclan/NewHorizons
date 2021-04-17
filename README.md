@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="C:\Users\Quiet\Desktop\school\CS499 Capstone\CodeReview.png">
+  <video controls="true" allowfullscreen="true" poster="https://github.com/Eclan/NewHorizons/CodeReview.png">
     <source src="https://github.com/Eclan/NewHorizons/Code Review.mp4" type="video/mp4">
   </video>
 </figure>
