@@ -96,7 +96,7 @@ del t2
 
 ```
 
-*****************************************Software Engineering and Design*****************************************
+***************************************** Software Engineering and Design *****************************************
 
 With the implementation of software engineering design, the initial step was to create the idea without coding. This is defining the structure you want to obtain for the final product. The concept is set with the first draft of the student information system as seen in the diagram below.  
 
@@ -119,7 +119,7 @@ The important thing to keep in mind is the four phases of systems development li
 
 
 
-*****************************************Algorithms and Data Structure*****************************************
+***************************************** Algorithms and Data Structure *****************************************
 
   A linked list method is what I will begin with in this demonstration. This method would be used for smaller data sets so that the source code can be generated faster. With quick implementation to get the project file up and running when the data structure is not as large. The linked list source code displays good housekeeping variables to keep the list from writing over itself and losing data. Start with the head node and continue to push a new bid into the place of the list. Ability to search for a bid that is wanted to be known. The linked list gives a fast and simple method to get the data up and running for temporary use of the data. 
   
@@ -143,7 +143,7 @@ Fundamentals of data structures: Hashing. (n.d.). Retrieved February 22, 2020, f
 Parlante, N. (n.d.). Retrieved February 22, 2020, from http://cslibrary.stanford.edu/110/BinaryTrees.html
 
 
-*****************************************Databases*****************************************
+***************************************** Databases *****************************************
 
 Databases are very useful tools when someone knows how to use the data in them. The first item a analyst should know is what data to collect. With the proper explanations as to why and how that data will be used in their outcome. This can grant a better perspective for the individual that is participating in the study with the data. The databases that will be used are smaller data sets and can simulate larger data sets. First, I will go through the database named, “roller coaster.xlsx”. I will use the program JMP to execute the visuals in the following figures. I am also familiar with the open source program JASP which has been very resourceful for home projects.
 
@@ -266,4 +266,13 @@ Mood, A. M. (1950). Introduction to the theory of statistics. McGraw-Hill.
 Blalock, H. M., Jr. (1960). Social statistics. McGraw-Hill.
 Gerd Gigerenzer, Mindless statistics, The Journal of Socio-Economics, Volume 33, Issue 5, 2004, Pages 587-606, ISSN 1053-5357, https://doi.org/10.1016/j.socec.2004.09.033.
 (https://www.sciencedirect.com/science/article/pii/S1053535704000927)
+
+***************************************** Self Assessment *****************************************
+
+My name is Eric Clancy and I have been in the Computer Science program at Southern New Hampshire University and graduated May of 2021. Before engaging with the university, I was just tinkering with C++ coding for fun to figure out how simple operations functioned. When I found myself spending many hours of trying to decipher simple operations of the code, that is when I met my wife, Christine. She knew I wanted to learn more about coding and began her trek on my outlooks of how to learn that. My loving wife re-activated my GI Bill from the military and began phone calls to schools. Southern New Hampshire University piqued my interest and none the less had a great military advisor call me and speak with me with clarity and laid out the entire program of what I needed. I was ready to make the next push and jump in. 
+	
+The courses that were placed in front of myself were not an easy task to complete. As I was learning about coding there was so many different avenues of that field. I was unaware of ninety percent of courses that were being taught to me from SNHU. The first class that sunk in deep was the software automation course. The programmers code sent to an individual to dissect and find bugs that would normally not show on a “normal” user run of the program. This was identifying issues that could be automated and run through a script that was generated to create those errors. The next course that I found to be paramount in my journey to software field was Secure Coding. Secure Coding introduced to me the fact that proper syntax and little variables could open a wide door for un-ethical individuals to begin to infiltrate your code/program. Again, showing me that creating secure code was a must if creating code, especially for a company that has sensitive information. Best practices need to be more than just a best but a must that should be present and always in the mind of the programmer. The third but not final important concept is the knowledge of Reverse Software Engineering. Once again, this course opened my eyes more on the field of software development. Able to re-learn code without source code is a big step in understanding another process that was out of my head. This could show weakness and if the programmers practiced Secure Coding and Test Automation of their software, reverse engineering code would not be necessary. Which I was wrong about software reverse engineering, can be once again another method of testing just with a program that you do not have access with. All the tools mentioned above are verification and validation methods of a good sound program and well-structured code. The code created has many ways of testing and making sure there are no holes for hackers to sneak in. 
+	
+Which “section” in that field do you ask? The answer to that question and the teachings from SNHU show that I can engage in many different sectors with the software field. I am new to this and would take an entry level position with this company and if that goal runs dry after obtaining my degree, I will look elsewhere with the smallest time gap of obtaining the degree. My specialization will be decided with the current opportunity presented to me. I am eager to begin another chapter in my life and software development is in that next chapter.       
+
 
