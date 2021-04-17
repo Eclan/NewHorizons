@@ -6,7 +6,7 @@
   </video>
 </figure>
 
-You can use the [editor on GitHub](https://github.com/Eclan/NewHorizons/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A self review of older code is conducted by myself above. The original code submission is found here [Version 1.0](https://github.com/Eclan/NewHorizons/edit/main/PortScanV1.0.py) along with the updated [Version1.1](https://github.com/Eclan/NewHorizons/edit/main/PortScanV1.1.py).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
